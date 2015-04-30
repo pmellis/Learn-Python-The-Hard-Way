@@ -16,8 +16,10 @@ print x
 # Print "Those who know binary and those who don't."
 print y
 
-"""Print "I said: 'There are 10 types of people.'" Use the %r for debugging, since it displays the "raw" data 
-of the variable, but the others are used for displaying to users."""
+'''
+Print "I said: 'There are 10 types of people.'" Use the %r for debugging, since it displays the "raw" data 
+of the variable, but the others are used for displaying to users.
+'''
 print "I said: %r." % x # One string inside of a string
 
 # Print "I also said: 'Those who know binary and those who don't.'."
